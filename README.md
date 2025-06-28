@@ -23,3 +23,6 @@ The notebook requires the following Python libraries:
 1. pandas
 2. numpy
 3. matplotlib
+
+Copy and paste this link to the Tableau dashboard:
+https://public.tableau.com/app/profile/sof.koi/viz/Project_Phase_1/Aviationanalysis
