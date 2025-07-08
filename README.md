@@ -7,8 +7,11 @@ This notebook provides a data-driven analysis to support our company's expansion
 *Objectives*
 
 -Identify aircraft makes and models with the highest and lowest accident rates
+
 -Understand which engine types are associated with greater risk
+
 -Analyze the relationship between number of engines and accident severity
+
 -Provide clear, actionable recommendations to inform purchasing strategy
 
 *Sections:*
